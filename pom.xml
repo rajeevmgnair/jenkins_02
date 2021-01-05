@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>dockeransible</finalName>
+    <finalName>dockeransible_php</finalName>
   </build>
 </project>
